@@ -8,7 +8,9 @@ Pre-requisites
 
 Commands
 
+```shell
 terraform --version
+```
 
 terraform init
 
