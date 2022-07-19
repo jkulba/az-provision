@@ -11,16 +11,17 @@ az group create --name rgbeskardev --location westus
 
 ### Azure Region Names
 
-| Display Name      | Name           | Regional Display Name          |
+Locate the name of the desired region from the table and set the location value in the command above.
+| Display Name | Name | Regional Display Name |
 | ---------------- | -------------- | ---------------------------- |
-| East US          | eastus         | (US) East US                 |
-| East US 2        | eastus2        | (US) East US 2               |
-| North Central US | northcentralus | (US) North Central US        |
-| South Central US | southcentralus | (US) South Central US        |
-| West US          | westus         | (US) West US                 |
-| West US 2        | westus2        | (US) West US 2               |
-| West US 3        | westus3        | (US) West US 3               |
-| Central US       | centralus      | (US) Central US              |
-| Central India    | centralindia   | (Asia Pacific) Central India |
-| South India      | southindia     | (Asia Pacific) South India   |
-| West India       | westindia      | (Asia Pacific) West India    |
+| East US | eastus | (US) East US |
+| East US 2 | eastus2 | (US) East US 2 |
+| North Central US | northcentralus | (US) North Central US |
+| South Central US | southcentralus | (US) South Central US |
+| West US | westus | (US) West US |
+| West US 2 | westus2 | (US) West US 2 |
+| West US 3 | westus3 | (US) West US 3 |
+| Central US | centralus | (US) Central US |
+| Central India | centralindia | (Asia Pacific) Central India |
+| South India | southindia | (Asia Pacific) South India |
+| West India | westindia | (Asia Pacific) West India |
