@@ -11,7 +11,7 @@ az group create --name rgbeskardev --location westus
 
 ### Azure Region Names
 
-| DisplayName      | Name           | RegionalDisplayName          |
+| Display Name      | Name           | Regional Display Name          |
 | ---------------- | -------------- | ---------------------------- |
 | East US          | eastus         | (US) East US                 |
 | East US 2        | eastus2        | (US) East US 2               |
