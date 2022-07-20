@@ -8,3 +8,5 @@ Gists are short single purpose example of code or commands that can be shared an
 ## Azure Cloud Resources
 
 - [Create Resource Group](/gists/azure-resourcegroup.md)
+
+- [Create Container Registry (ACR)](/gists/azure-container-registry.md)
