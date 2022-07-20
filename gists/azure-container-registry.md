@@ -27,9 +27,6 @@ az acr login --name acrbeskardev
 ```shell
 az acr show --name acrbeskardev --query loginServer --output table
 ```
-
-## Result
-
 acrbeskardev.azurecr.io
 
 TAG IMAGE
