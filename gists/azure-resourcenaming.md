@@ -1,7 +1,7 @@
 # Azure Resource Naming Conventions
 
 > **NOTE**
-> The following naming conventions are recommendations.
+> The following naming conventions are recommendations. I purposefully did not use spaces or special characters.
 
 [resource type] [name] [environment]
 
@@ -15,8 +15,8 @@
 
 ### Azure Storage Example
 
-[st] [beskar] [dev] -> acrbeskardev
+[st] [beskar] [dev] -> stbeskardev
 
 ### Azure Service Bus Namespace Example
 
-[ns] [beskar] [dev] -> acrbeskardev
+[ns] [beskar] [dev] -> nsbeskardev
