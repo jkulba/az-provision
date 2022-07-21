@@ -11,4 +11,6 @@ Gists are short single purpose example of code or commands that can be shared an
 
 - [Create Container Registry (ACR)](/gists/azure-container-registry.md)
 
+- [Create Service Bus Namespace](/gists/azure-servicebus-namespace.md)
+
 - [Azure Developer CLI (azd)](/gists/azure-developer-cli.md)

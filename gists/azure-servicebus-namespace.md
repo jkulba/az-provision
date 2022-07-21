@@ -1,9 +1,14 @@
-# Azure Resource Group
+# Azure Service Bus Namespace
+
+> **Info**
+> Please checkout the Microsoft tutorial - https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickstart-cli
 
 CREATE RESOURCE GROUP
 
-> **Note**
+> **Warning**
 > Resource names may not have spaces. Recommend not using any dashes or special characters in the resource name.
+
+If the resource group is not already created, use the following to create the resource group.
 
 ```shell
 az group create --name rgbeskardev --location centralus
@@ -25,3 +30,21 @@ Locate the name of the desired region from the table and set the location value 
 | Central India | centralindia | (Asia Pacific) Central India |
 | South India | southindia | (Asia Pacific) South India |
 | West India | westindia | (Asia Pacific) West India |
+
+CREATE AZURE SERVICE BUS NAMESPACE
+
+```shell
+az servicebus namespace create --resource-group rgbeskardev --name nsbeskardev --location centralus
+```
+
+CREATE QUEUE IN NAMESPACE
+
+```shell
+az servicebus queue create --resource-group rgbeskardev --namespace-name nsbeskardev --name SubmitTaskQueue
+```
+
+GET THE PRIMARY CONNECTION STRING FOR NAMESPACE
+
+```shell
+az servicebus namespace authorization-rule keys list --resource-group rgbeskardev --namespace-name nsbeskardev --name RootManageSharedAccessKey --query primaryConnectionString --output tsv
+```
