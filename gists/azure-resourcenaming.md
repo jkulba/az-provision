@@ -1,3 +1,11 @@
+---
+title: Azure Resource Naming Conventions
+description: Azure Resource Naming Conventions.
+author: jim.kulba
+topic: article
+date: 07/21/2022
+---
+
 # Azure Resource Naming Conventions
 
 > **NOTE**

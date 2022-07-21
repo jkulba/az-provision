@@ -1,3 +1,11 @@
+---
+title: Azure Resource Group
+description: Azure Resource Group.
+author: jim.kulba
+topic: article
+date: 07/21/2022
+---
+
 # Azure Resource Group
 
 CREATE RESOURCE GROUP

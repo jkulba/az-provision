@@ -1,3 +1,11 @@
+---
+title: Azure Developer CLI (azd)
+description: Azure Developer CLI (azd).
+author: jim.kulba
+topic: article
+date: 07/21/2022
+---
+
 # Azure Developer CLI (azd)
 
 ## Start

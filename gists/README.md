@@ -1,4 +1,12 @@
-# Gists
+---
+title: Azure Cloud Gists
+description: Azure Cloud Gists table of contents.
+author: jim.kulba
+topic: toc
+date: 07/21/2022
+---
+
+# Azure Cloud Gists
 
 Gists are short single purpose example of code or commands that can be shared and referred to when needed. Feel free to add new content and share with your friends (co-workers).
 

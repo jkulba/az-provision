@@ -1,3 +1,11 @@
+---
+title: Azure Service Bus Namespace
+description: Azure Service Bus Namespace.
+author: jim.kulba
+topic: article
+date: 07/21/2022
+---
+
 # Azure Service Bus Namespace
 
 > **Info**
