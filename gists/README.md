@@ -3,10 +3,12 @@
 Gists are short single purpose example of code or commands that can be shared and referred to when needed. Feel free to add new content and share with your friends (co-workers).
 
 > **Note**
-> Gists are disabled for Enterprise accounts.
+> Gists are disabled for Enterprise accounts. Each article has it's own URL address. I encourage everyone to create more gists and share.
 
 ## Azure Cloud Resources
 
 - [Create Resource Group](/gists/azure-resourcegroup.md)
 
 - [Create Container Registry (ACR)](/gists/azure-container-registry.md)
+
+- [Azure Developer CLI (azd)](/gists/azure-developer-cli.md)
