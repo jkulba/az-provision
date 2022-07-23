@@ -36,5 +36,8 @@ Locate the name of the desired region from the table and set the location value 
 
 Use the following command to fetch the regions available with your account:
 ```shell
-az account list-locations --query "[*].[displayName,name]" --out table | sort
+az account list-locations \
+  --query "[].{DisplayName:displayName,Region:name}" \
+  --out table \
+  | sort
 ```
