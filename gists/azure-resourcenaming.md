@@ -9,7 +9,7 @@ date: 07/21/2022
 # Azure Resource Naming Conventions
 
 > **NOTE**
-> The following naming conventions are recommendations. I purposefully did not use spaces or special characters.
+> Resource names must be globally unique within Azure, use only lowercase letters and digits and be between 3 and 24 characters.
 
 [resource type] [name] [environment]
 
