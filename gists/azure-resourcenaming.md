@@ -21,7 +21,7 @@ date: 07/21/2022
 
 [acr] [beskar] [dev] -> acrbeskardev
 
-### Azure Storage Example
+### Azure Storage Account Example
 
 [st] [beskar] [dev] -> stbeskardev
 
